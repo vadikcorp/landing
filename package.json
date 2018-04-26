@@ -1,0 +1,19 @@
+{
+  "name": "Botscrew",
+  "version": "1.0.0",
+  "description": "Botscrew test task",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "vadikcorp",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
